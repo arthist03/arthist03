@@ -3,6 +3,9 @@
    <a href="https://www.linkedin.com/in/arthkadiya/">
     <img src="https://img.shields.io/badge/linkedin-Arth-blue">
   </a>
+  <a href="[https://www.linkedin.com/in/arthkadiya/](https://arth-portfolio.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-Arth-blue">
+  </a>
 
 </p>
 
