@@ -5,7 +5,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Masters+MedTech+%40+IIT+Jodhpur+%E2%80%93+AIIMS+Jodhpur;Building+AI+Systems+for+Healthcare+%26+Clinical+Diagnostics;From+Biomedical+Signals+to+Deployable+ML+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Masters+in+MedTech+%40+IIT+Jodhpur+%E2%80%93+AIIMS+Jodhpur;Building+AI+Systems+for+Healthcare+%26+Clinical+Diagnostics;From+Biomedical+Signals+to+Deployable+ML+Pipelines" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,7 +31,7 @@
 
 ```yaml
 name: Arth Kadiya
-current_role: Masters MedTech Student (2025–2027)
+current_role: Masters Student in Medical Technologies (2025–2027)
 institution: IIT Jodhpur × AIIMS Jodhpur
 undergrad: B.Tech Biomedical Engineering — Manipal Institute of Technology (2022–2025)
 location: Jodhpur, Rajasthan, India
@@ -140,7 +140,7 @@ languages: Gujarati (Native) | Hindi (Professional) | English (Professional)
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
-| 2025 – 2027 | **M.Tech Medical Technologies** | IIT Jodhpur × AIIMS Jodhpur |
+| 2025 – 2027 | **Masters in Medical Technology** | IIT Jodhpur × AIIMS Jodhpur |
 | 2022 – 2025 | **B.Tech Biomedical Engineering** | Manipal Institute of Technology |
 | 2019 – 2022 | **Diploma in Biomedical Engineering** | Ganpat University |
 
@@ -171,25 +171,7 @@ languages: Gujarati (Native) | Hindi (Professional) | English (Professional)
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthist03&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- Footer Wave -->
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
