@@ -1,70 +1,199 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Arth Kadiya</h1>
- <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/arthkadiya/">
-    <img src="https://img.shields.io/badge/linkedin-Arth-blue">
+<div align="center">
+
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Arth%20Kadiya&fontSize=60&fontColor=58a6ff&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20MedTech%20Researcher%20%C2%B7%20Biomedical%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Masters+MedTech+%40+IIT+Jodhpur+%E2%80%93+AIIMS+Jodhpur;Building+AI+Systems+for+Healthcare+%26+Clinical+Diagnostics;From+Biomedical+Signals+to+Deployable+ML+Pipelines" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/arthkadiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://arth-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Arth-blue">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:arthpk09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arthist03&style=for-the-badge&color=1f6feb" alt="Profile Views"/>
 
-</p>
+</div>
 
-<h3 align="center">A passionate Biomedical Engineer and software developer, merging engineering expertise with cutting-edge software development to improve healthcare</h3>
-<h3 align="center">Bachelor of Technology in Biomedical Engineering, set to graduate in 2025</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=arthist03 alt=arthist03/></p>
+<br/>
 
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+```yaml
+name: Arth Kadiya
+current_role: Masters MedTech Student (2025–2027)
+institution: IIT Jodhpur × AIIMS Jodhpur
+undergrad: B.Tech Biomedical Engineering — Manipal Institute of Technology (2022–2025)
+location: Jodhpur, Rajasthan, India
 
+previous_experience:
+  - role: AI/ML Engineer
+    org: SS Innovations, Gurugram
+    period: Mar 2025 – Jul 2025
+    work: ML models for healthcare, automation pipelines, biomedical signal/image processing
 
-- 🔭 I’m currently working on **developing skills & Profile**
-- 🌱 I’m currently learning **AI and Computer Vision**
-- 💬 Ask me about **MedTech & ML**
-- 😄 Employement **Open for intern opportunities**
-- 📫 How to reach me **arthpk09@gmail.com**
-<h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://www.fpgakey.com/uploads/images/original/20200618/0325308b136327.jpg" alt=Matlab width="100" height="60"/>
- <img style="margin: auto;" src="https://logowik.com/content/uploads/images/kotlin.jpg" alt=Kotlin width="100" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
-</p>
+  - role: Biomedical Engineer Intern
+    org: Zydus Hospitals, Ahmedabad
+    period: Apr 2022 – Jul 2022
+    work: Medical device testing, troubleshooting, technical support for clinical teams
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://th.bing.com/th/id/OIP.XMCKJqofnAiIMCJ3jpnRyAHaHa?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt=scikit width="90" height="70"/>
-  <img style="margin: auto;" src="https://th.bing.com/th/id/OIP.l3h2m6ioYr67FT-7t2la0gHaC9?rs=1&pid=ImgDetMain" alt=NumPy width="100" height="60"/>
-  <img style="margin: auto;" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/openCV.png" alt=OpenCv width="100" height="60"/>
- 
-</p>
+  - role: Full Stack Developer Intern
+    org: IEEE Bombay Section
+    period: Sep 2023 – Oct 2023
 
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-  <img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo.png" alt=Discord width="60" height="60"/>
-  <img style="margin: auto;" src="https://th.bing.com/th?id=OIP.pIi0CfGswG8JLy2f1w6dLQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt=Pycharm width="60" height="60"/>
-  <img style="margin: auto;" src="https://th.bing.com/th?id=OIP.i93SMjWvrCBnpm8BzY2dSQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt=Android Studio width="100" height="60"/>
-  <img style="margin: auto;" src="https://th.bing.com/th/id/OIP.BWugDHBz7qW9EOPZfSk7fgHaFx?rs=1&pid=ImgDetMain" alt=jupyter width="60" height="60"/>
-  
-</p>
+publication: >
+  Improved classification of term and preterm births
+  from electrohysterogram signals using ML with model error features
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=arthist03&show_icons=true alt=arthist03 /> 
-</p>
+domains:
+  - AI/ML for Healthcare
+  - Biomedical Signal & Image Processing
+  - Healthcare Automation & Intelligent Systems
+  - Rapid Prototyping & Deployment
 
-<p align="center">
-<a href=https://www.linkedin.com/in/arthkadiya/ target="blank"><img align="center" src=https://pngimg.com/uploads/linkedIn/linkedIn_PNG29.png alt="sachuverma" height="70" width="70" /></a>
-  
-</p>
+languages: Gujarati (Native) | Hindi (Professional) | English (Professional)
+```
 
-⭐️ From [Arth Kaidya](https://github.com/arthist03) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El ajetreo es la clave```
+<br/>
 
+<!-- Tech Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=python,matlab,kotlin,js&theme=dark" alt="Languages" />
+
+#### AI / ML / Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="ML Stack" />
+
+#### Web & Automation
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm&theme=dark" alt="Web" />
+
+#### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,linux,docker&theme=dark" alt="Tools" />
+
+</div>
+
+<br/>
+
+<!-- Experience Timeline -->
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Experience
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  🔬  SS Innovations, Gurugram              AI/ML Engineer            │
+│      Mar 2025 – Jul 2025                                             │
+│      ML models · Healthcare automation · Signal processing           │
+│                                                                      │
+│  🌐  IEEE Bombay Section                   Full Stack Developer      │
+│      Sep 2023 – Oct 2023                                             │
+│      Module co-lead · Web development                                │
+│                                                                      │
+│  🔬  IEEE EMBS Manipal                     Research & Web Dev        │
+│      Sep 2022 – Jun 2024                                             │
+│      Research projects · Market analysis · IT & web                   │
+│                                                                      │
+│  🏥  Zydus Hospitals, Ahmedabad            Biomedical Engineer       │
+│      Apr 2022 – Jul 2022                                             │
+│      Device testing · Troubleshooting · Clinical support             │
+│                                                                      │
+│  🏥  Wockhardt Hospitals, Rajkot           Biomedical Engineer       │
+│      Jul 2023                                                        │
+│      Medical equipment maintenance                                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- Publication -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Publication
+
+<div align="center">
+
+📄 **Improved classification of term and preterm births from electrohysterogram signals using machine learning with model error features**
+
+</div>
+
+<br/>
+
+<!-- Education -->
+## 🎓 Education
+
+<div align="center">
+
+| Period | Degree | Institution |
+|--------|--------|-------------|
+| 2025 – 2027 | **M.Tech Medical Technologies** | IIT Jodhpur × AIIMS Jodhpur |
+| 2022 – 2025 | **B.Tech Biomedical Engineering** | Manipal Institute of Technology |
+| 2019 – 2022 | **Diploma in Biomedical Engineering** | Ganpat University |
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arthist03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arthist03&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthist03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthist03&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/arthist03/arthist03/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthist03&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer&animation=fadeIn"/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <br/><br/>
+  <b>⭐ From <a href="https://github.com/arthist03">Arth Kadiya</a></b>
+</div>
